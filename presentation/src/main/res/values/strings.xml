@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">desafio_android_softtek</string>
+    <string name="login_title">Login</string>
+    <string name="enter_user">Ingresa tu usuario</string>
+    <string name="enter">Entrar</string>
+
+</resources>
